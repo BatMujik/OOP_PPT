@@ -1,0 +1,6 @@
+Cube, 300, 350
+Sphere, 320, 360
+Cylinder, 310, 340
+---
+Pyramid, 280, 300
+Cone, 290, 310

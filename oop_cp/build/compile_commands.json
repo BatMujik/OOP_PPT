@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/slideshow.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\slideshow.dir\\src\\main.cpp.obj -c \"C:\\Users\\artyomha\\OneDrive - Synopsys, Inc\\Desktop\\oop_cp\\src\\main.cpp\"",
+  "file": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/src/main.cpp",
+  "output": "CMakeFiles/slideshow.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/slideshow.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\slideshow.dir\\src\\Shape.cpp.obj -c \"C:\\Users\\artyomha\\OneDrive - Synopsys, Inc\\Desktop\\oop_cp\\src\\Shape.cpp\"",
+  "file": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/src/Shape.cpp",
+  "output": "CMakeFiles/slideshow.dir/src/Shape.cpp.obj"
+},
+{
+  "directory": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/slideshow.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\slideshow.dir\\src\\Slide.cpp.obj -c \"C:\\Users\\artyomha\\OneDrive - Synopsys, Inc\\Desktop\\oop_cp\\src\\Slide.cpp\"",
+  "file": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/src/Slide.cpp",
+  "output": "CMakeFiles/slideshow.dir/src/Slide.cpp.obj"
+},
+{
+  "directory": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/slideshow.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\slideshow.dir\\src\\SlideShow.cpp.obj -c \"C:\\Users\\artyomha\\OneDrive - Synopsys, Inc\\Desktop\\oop_cp\\src\\SlideShow.cpp\"",
+  "file": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/src/SlideShow.cpp",
+  "output": "CMakeFiles/slideshow.dir/src/SlideShow.cpp.obj"
+},
+{
+  "directory": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/slideshow.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\slideshow.dir\\src\\Tokenizer.cpp.obj -c \"C:\\Users\\artyomha\\OneDrive - Synopsys, Inc\\Desktop\\oop_cp\\src\\Tokenizer.cpp\"",
+  "file": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/src/Tokenizer.cpp",
+  "output": "CMakeFiles/slideshow.dir/src/Tokenizer.cpp.obj"
+},
+{
+  "directory": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/slideshow.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\slideshow.dir\\src\\CommandParser.cpp.obj -c \"C:\\Users\\artyomha\\OneDrive - Synopsys, Inc\\Desktop\\oop_cp\\src\\CommandParser.cpp\"",
+  "file": "C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/src/CommandParser.cpp",
+  "output": "CMakeFiles/slideshow.dir/src/CommandParser.cpp.obj"
+}
+]
