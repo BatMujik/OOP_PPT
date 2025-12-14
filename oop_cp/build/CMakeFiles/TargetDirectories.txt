@@ -1,3 +1,0 @@
-C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/build/CMakeFiles/slideshow.dir
-C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/build/CMakeFiles/edit_cache.dir
-C:/Users/artyomha/OneDrive - Synopsys, Inc/Desktop/oop_cp/build/CMakeFiles/rebuild_cache.dir
