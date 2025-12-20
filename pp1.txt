@@ -1,0 +1,11 @@
+Circle, 20, 20, 50, 50, Red, White, 2, true
+Square, 100, 30, 40, 40, Green, White, 2, true
+Triangle, 180, 20, 60, 50, Yellow, Orange, 2, true
+---
+Rectangle, 30, 40, 80, 50, Blue, Cyan, 3, true
+Hexagon, 150, 30, 60, 60, Purple, White, 2, true
+Star, 250, 25, 50, 50, Gold, Orange, 2, true
+---
+Diamond, 50, 30, 40, 60, Cyan, White, 2, true
+Pentagon, 130, 25, 55, 55, Teal, White, 2, true
+Oval, 220, 40, 70, 45, Pink, Magenta, 2, true

@@ -1,0 +1,10 @@
+Star, 50, 30, 70, 70, Gold, Orange, 3, true
+Circle, 160, 40, 55, 55, Coral, White, 2, true
+---
+Rhombus, 40, 30, 50, 70, Violet, White, 2, true
+Trapezoid, 130, 45, 80, 45, Lime, Green, 2, true
+Diamond, 250, 30, 45, 60, Navy, Cyan, 2, true
+---
+Rectangle, 20, 25, 100, 60, Teal, White, 3, true
+Triangle, 150, 20, 70, 60, Orange, Red, 2, true
+Square, 260, 35, 45, 45, Silver, Gray, 2, true
