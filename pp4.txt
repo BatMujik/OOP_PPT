@@ -1,0 +1,3 @@
+Square, 50, 50, 50, 50, Yellow, White, 2, true
+---
+Rhombus, 60, 60, 20, 20, Violet, White, 2, true

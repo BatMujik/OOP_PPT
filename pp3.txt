@@ -1,0 +1,8 @@
+Hexagon, 50, 25, 65, 65, Magenta, Pink, 2, true
+Pentagon, 160, 30, 55, 55, Brown, Orange, 2, true
+Circle, 270, 35, 50, 50, Blue, Navy, 3, true
+---
+Star, 30, 20, 60, 60, Yellow, Gold, 2, true
+Oval, 120, 40, 90, 50, Cyan, Teal, 2, true
+Diamond, 250, 25, 40, 60, Red, Coral, 2, true
+Trapezoid, 80, 110, 100, 40, Green, Lime, 2, true
